@@ -4,7 +4,7 @@ https://www.kaggle.com/datasets/hasibalmuzdadid/global-life-expectancy-historica
 https://www.kaggle.com/code/saga21/visual-journey-through-world-development-1985-2015/input?select=obesity-cleaned.csv
 
 # The factors affecting life expectancy can be devided into two main categpries: human biological factors and socioeconomic factors 
-# In this project, what we want to study is the external factors -- socioeconomic factor
+# However, in this project, what we want to study are the external factors -- socioeconomic factor
 
 # 1. Stardard of living -- health diet/ GDP/ Alcohol consumption
 https://www.kaggle.com/code/saga21/visual-journey-through-world-development-1985-2015/input?select=obesity-cleaned.csv
@@ -13,10 +13,11 @@ https://www.kaggle.com/datasets/hemil26/world-happiness-report-2022
 # 2. The level of medical and health services
 https://www.kaggle.com/datasets/danevans/world-bank-wdi-212-health-systems
 
-# 3. The educational level of population-- world improvement
+# ??? 3. The educational level of population-- world improvement
+https://www.kaggle.com/code/peterahlstrom/life-expectancy-vs-level-of-education-sweden#Life-expectancy-vs.-level-of-education
 
 # 4. Quanlity of living environmment
-
+https://www.kaggle.com/datasets/cathetorres/geospatial-environmental-and-socioeconomic-data
 
 # 5. Metal health and stress -- Suicide rate
 https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
