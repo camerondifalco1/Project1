@@ -11,10 +11,10 @@ PROJECT TITLE:
 Happiness and Life Expectancy
 
 TEAM MEMBERS: 
-Paula Beckett, Juanita Sands, Joey Z, Cameron
+Paula Beckett, Juanita Sands, Joey Zheng, Cameron DeFalco
 
 PROJECT DESCRIPTION/OUTLINE:
-It could be assumed that happier countries have a higher life expectancy, using data from both a happiness study and life expectacny data from WHO we will look deeper into factors that contribute to a higher or
+It could be assumed that happier countries have a higher life expectancy, using data from both a happiness study and life expectancy data from WHO we will look deeper into factors that contribute to a higher or
 lower life expectancy.
 
 RESEARCH QUESTIONS TO ANSWER:
@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 https://www.kaggle.com/code/arunvithyasegar/eda-on-world-happiness-report
 
 ROUGH BREAKDOWN OF TASKS:
-- Decide on datasets
-- import and merge datasets
-- what questions do we want to answer?
+- Decide on datasets (completed)
+- import and merge datasets (completed)
+- what questions do we want to answer and allocation amongst team members? (as per above)
 - Determine datasets and visualisations to answer questions
