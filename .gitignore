@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#Adding config.py file
+PB_api_keys.py
+=======
+#API keys
+JRS_api_keys.py
+
+>>>>>>> JRSBranch
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -4,3 +4,37 @@ https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 https://www.kaggle.com/code/arunvithyasegar/eda-on-world-happiness-report
 
 https://www.kaggle.com/code/lvitqun/life-expectancy-data-visualize - This Notebook has a really good summary at the beginning that we could utilise for our project outline.
+
+#The below is what we need to submit on Monday, please add/edit away
+
+PROJECT TITLE: 
+Happiness and Life Expectancy
+
+TEAM MEMBERS: 
+Paula Beckett, Juanita Sands, Joey Zheng, Cameron DeFalco
+
+PROJECT DESCRIPTION/OUTLINE:
+It could be assumed that happier countries have a higher life expectancy, using data from both a happiness study and life expectancy data from WHO we will look deeper into factors that contribute to a higher or
+lower life expectancy.
+
+RESEARCH QUESTIONS TO ANSWER:
+Which are the happiest countries?
+What are some factors that can impact life expectancy?
+  - Compare factors against happiness rating:
+      - Alcohol consumption
+      - Social Support
+      - Contagious Disease rate
+          - Hepatitis B rate of immunisation 
+          - Measles case numbers
+      - Countries Economic status eg GDP and how much of that is spent on health
+Do those living in happier countries have a higher life expectancy?
+
+DATASETS TO BE USED:
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+https://www.kaggle.com/code/arunvithyasegar/eda-on-world-happiness-report
+
+ROUGH BREAKDOWN OF TASKS:
+- Decide on datasets (completed)
+- import and merge datasets (completed)
+- what questions do we want to answer and allocation amongst team members? (as per above)
+- Determine datasets and visualisations to answer questions
