@@ -1,5 +1,8 @@
 # Project1
 Project1
+<<<<<<< HEAD
+# this is my branch
+=======
 
 Resources:
 
@@ -46,4 +49,5 @@ Python Working Files:
     life_happiness_variance:
          - explore happiness score vs life expectancy to see if they correlate overall
 
+>>>>>>> main
 
