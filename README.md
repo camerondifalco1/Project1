@@ -45,5 +45,3 @@ Python Working Files:
     life_happiness_variance:
          - explore happiness score vs life expectancy to see if they correlate overall
 
->>>>>>> main
-
