@@ -1,10 +1,6 @@
-# Project1
-Project1
-<<<<<<< HEAD
-# this is my branch
-=======
+# Project1 - Happiness/Life Expectancy
 
-Resources:
+**Resources:**
 
 
 Output Data:
