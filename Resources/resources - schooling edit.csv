@@ -1,0 +1,184 @@
+﻿Column1,Country,happiness_score,continent,Year_x,Year_y,Status,Life expectancy ,Adult Mortality,GDP,Schooling
+7,Australia,7.28399992,Australia,2015,2015,Developed,82.8,59,56554.3876,20.4
+8,Austria,7.006000042,Europe,2015,2015,Developed,81.5,65,43665.947,15.9
+15,Belgium,6.890999794,Europe,2015,2015,Developed,81.1,74,4356.875,16.6
+24,Bulgaria,4.714000225,Europe,2015,2015,Developed,74.5,137,6993.47736,15
+40,Croatia,5.293000221,Europe,2015,2015,Developed,78,95,11579.6674,15.3
+42,Cyprus,5.620999813,Asia,2015,2015,Developed,85,52,2375.1127,14.3
+43,Czechia,,,,2015,Developed,78.8,86,,
+46,Denmark,7.521999836,Europe,2015,2015,Developed,86,71,5314.64416,19.2
+62,Germany,6.951000214,Europe,2015,2015,Developed,81,68,41176.88158,17.1
+72,Hungary,5.323999882,Europe,2015,2015,Developed,75.8,134,12365.6263,15.6
+73,Iceland,7.504000187,Europe,2015,2015,Developed,82.7,49,5734.4436,19
+78,Ireland,6.977000237,Europe,2015,2015,Developed,81.4,64,6664.144,18.6
+80,Italy,5.964000225,Europe,2015,2015,Developed,82.7,56,349.14755,16.3
+82,Japan,5.920000076,Asia,2015,2015,Developed,83.7,55,34474.13736,15.3
+90,Latvia,5.849999905,Europe,2015,2015,Developed,74.6,153,13666.58336,16
+95,Lithuania,5.90199995,Europe,2015,2015,Developed,73.6,165,14252.42853,16.5
+96,Luxembourg,6.862999916,Europe,2015,2015,Developed,82,63,1199.8223,13.9
+102,Malta,6.52699995,Europe,2015,2015,Developed,81.7,54,23819.4636,14.6
+114,Netherlands,7.376999855,Europe,2015,2015,Developed,81.9,57,44292.88473,18.1
+115,New Zealand,7.31400013,Australia,2015,2015,Developed,81.6,66,3821.8937,19.2
+119,Norway,7.537000179,Europe,2015,2015,Developed,81.8,59,7455.24654,17.7
+127,Poland,5.97300005,Europe,2015,2015,Developed,77.5,117,12565.9876,16.4
+128,Portugal,5.195000172,Europe,2015,2015,Developed,81.1,76,1922.681,16.6
+132,Romania,5.824999809,Europe,2015,2015,Developed,75,133,8958.788593,14.7
+144,Singapore,6.572000027,Asia,2015,2015,Developed,83.1,55,53629.73746,15.4
+145,Slovakia,6.09800005,Europe,2015,2015,Developed,76.7,19,,15
+146,Slovenia,5.757999897,Europe,2015,2015,Developed,88,74,2729.86383,17.3
+151,Spain,6.402999878,Europe,2015,2015,Developed,82.8,56,25683.84565,17.7
+156,Sweden,7.28399992,Europe,2015,2015,Developed,82.4,53,5585.25847,15.9
+157,Switzerland,7.493999958,Europe,2015,2015,Developed,83.4,49,8989.8424,16
+172,United Kingdom of Great Britain and Northern Ireland,,,,2015,Developed,81.2,69,,
+174,United States of America,,,,2015,Developed,79.3,13,,
+0,Afghanistan,3.79399991,Asia,2015,2015,Developing,65,263,584.25921,10.1
+1,Albania,4.644000053,Europe,2015,2015,Developing,77.8,74,3954.22783,14.2
+2,Algeria,5.872000217,Africa,2015,2015,Developing,75.6,19,4132.76292,14.4
+3,Angola,,,,2015,Developing,52.4,335,3695.793748,11.4
+4,Antigua and Barbuda,,,,2015,Developing,76.4,13,13566.9541,13.9
+5,Argentina,6.598999977,South America,2015,2015,Developing,76.3,116,13467.1236,17.3
+6,Armenia,4.375999928,Asia,2015,2015,Developing,74.8,118,369.654776,12.7
+9,Azerbaijan,5.234000206,Asia,2015,2015,Developing,72.7,118,55.31382,12.7
+10,Bahamas,,,,2015,Developing,76.1,147,,12.6
+11,Bahrain,6.086999893,Asia,2015,2015,Developing,76.9,69,22688.87824,14.5
+12,Bangladesh,4.607999802,Asia,2015,2015,Developing,71.8,129,121.15812,10.2
+13,Barbados,,,,2015,Developing,75.5,98,15557.8381,15.3
+14,Belarus,5.568999767,Europe,2015,2015,Developing,72.3,196,5949.11677,15.6
+16,Belize,,,,2015,Developing,71,175,4849.997495,12.8
+17,Benin,3.657000065,Africa,2015,2015,Developing,60,249,783.94791,10.7
+18,Bhutan,,,,2015,Developing,69.8,211,2613.645177,12.5
+19,Bolivia (Plurinational State of),,,,2015,Developing,77,186,,13.8
+20,Bosnia and Herzegovina,5.18200016,Europe,2015,2015,Developing,77.4,88,4574.9787,14.2
+21,Botswana,3.766000032,Africa,2015,2015,Developing,65.7,256,6532.651,12.6
+22,Brazil,6.635000229,South America,2015,2015,Developing,75,142,8757.2622,15.2
+23,Brunei Darussalam,,,,2015,Developing,77.7,78,3967.8951,14.9
+25,Burkina Faso,4.032000065,Africa,2015,2015,Developing,59.9,26,615.592225,7.7
+26,Burundi,2.904999971,Africa,2015,2015,Developing,59.6,288,33.681223,10.6
+27,Côte d'Ivoire,,,,2015,Developing,53.3,397,,
+28,Cabo Verde,,,,2015,Developing,73.3,114,2954.119467,13.5
+29,Cambodia,4.168000221,Asia,2015,2015,Developing,68.7,174,1163.18977,10.9
+30,Cameroon,4.695000172,Africa,2015,2015,Developing,57.3,357,1244.429421,10.4
+31,Canada,7.315999985,North America,2015,2015,Developing,82.2,64,43315.744,16.3
+32,Central African Republic,,,,2015,Developing,52.5,397,348.381417,7.1
+33,Chad,3.936000109,Africa,2015,2015,Developing,53.1,356,777.248751,7.3
+34,Chile,6.65199995,South America,2015,2015,Developing,85,82,13653.2264,16.3
+35,China,5.272999763,Asia,2015,2015,Developing,76.1,85,869.211938,13.5
+36,Colombia,6.356999874,South America,2015,2015,Developing,74.8,143,644.525556,13.6
+37,Comoros,,,,2015,Developing,63.5,227,727.6463868,11.1
+38,Congo,,,,2015,Developing,64.7,267,,11.1
+39,Costa Rica,7.078999996,South America,2015,2015,Developing,79.6,95,1146.36273,14.2
+41,Cuba,,,,2015,Developing,79.1,92,762.261218,13.9
+44,Democratic People's Republic of Korea,,,,2015,Developing,76,139,,
+45,Democratic Republic of the Congo,,,,2015,Developing,59.8,258,,
+47,Djibouti,,,,2015,Developing,63.5,241,1862.167274,6.3
+48,Dominican Republic,5.230000019,South America,2015,2015,Developing,73.9,152,6468.471648,13.2
+49,Ecuador,6.007999897,South America,2015,2015,Developing,76.2,118,625.62224,14
+50,Egypt,4.735000134,Africa,2015,2015,Developing,79,159,,13.1
+51,El Salvador,6.002999783,South America,2015,2015,Developing,73.5,178,4127.11775,13.2
+52,Equatorial Guinea,,,,2015,Developing,58.2,32,1347.31257,9.2
+53,Eritrea,,,,2015,Developing,64.7,255,,5
+54,Estonia,5.611000061,Europe,2015,2015,Developing,77.6,119,1774.9291,16.5
+55,Ethiopia,4.460000038,Africa,2015,2015,Developing,64.8,225,645.4637627,8.4
+56,Fiji,,,,2015,Developing,69.9,188,4921.89629,15.3
+57,Finland,7.468999863,Europe,2015,2015,Developing,81.1,76,4245.39744,17
+58,France,6.441999912,Europe,2015,2015,Developing,82.4,78,36526.7711,16.3
+59,Gabon,4.465000153,Africa,2015,2015,Developing,66,229,7388.984144,12.6
+60,Gambia,,,,2015,Developing,61.1,262,,8.9
+61,Georgia,4.285999775,Asia,2015,2015,Developing,74.4,129,3764.64912,13.9
+63,Ghana,4.119999886,Africa,2015,2015,Developing,62.4,249,1361.11395,11.4
+64,Greece,5.227000237,Europe,2015,2015,Developing,81,72,187.78991,17.2
+65,Grenada,,,,2015,Developing,73.6,142,9212.192824,15.8
+66,Guatemala,6.453999996,South America,2015,2015,Developing,71.9,186,3923.573344,10.7
+67,Guinea,3.506999969,South America,2015,2015,Developing,59,284,554.48766,8.8
+68,Guinea-Bissau,,,,2015,Developing,58.9,275,596.8717189,9.2
+69,Guyana,,,,2015,Developing,66.2,215,4136.689919,10.3
+70,Haiti,3.602999926,South America,2015,2015,Developing,63.5,24,814.5463952,9.1
+71,Honduras,5.181000233,South America,2015,2015,Developing,74.6,147,2326.15856,11.2
+74,India,4.315000057,Asia,2015,2015,Developing,68.3,181,1613.18878,11.6
+75,Indonesia,5.262000084,Asia,2015,2015,Developing,69.1,176,3336.16686,12.9
+76,Iran (Islamic Republic of),,,,2015,Developing,75.5,83,,14.8
+77,Iraq,4.497000217,Asia,2015,2015,Developing,68.9,182,4974.2693,10.1
+79,Israel,7.212999821,Asia,2015,2015,Developing,82.5,58,35729.37253,16
+81,Jamaica,5.31099987,South America,2015,2015,Developing,76.2,125,4965.989857,12.8
+83,Jordan,5.335999966,Asia,2015,2015,Developing,74.1,112,496.99275,13.1
+84,Kazakhstan,5.818999767,Asia,2015,2015,Developing,72,198,159.9817,15
+85,Kenya,4.552999973,Africa,2015,2015,Developing,63.4,249,1349.97144,11.1
+86,Kiribati,,,,2015,Developing,66.3,198,1424.483611,11.9
+87,Kuwait,6.105000019,Asia,2015,2015,Developing,74.7,81,28975.418,13.3
+88,Kyrgyzstan,5.004000187,Asia,2015,2015,Developing,71.1,166,,13
+89,Lao People's Democratic Republic,,,,2015,Developing,65.7,194,,10.8
+91,Lebanon,5.224999905,Asia,2015,2015,Developing,74.9,98,846.632851,13.3
+92,Lesotho,,,,2015,Developing,53.7,484,173.82893,10.7
+93,Liberia,3.532999992,Africa,2015,2015,Developing,61.4,259,452.38717,9.9
+94,Libya,5.525000095,Africa,2015,2015,Developing,72.7,138,,13.4
+97,Madagascar,3.644000053,Africa,2015,2015,Developing,65.5,22,41.8575951,10.3
+98,Malawi,3.970000029,Africa,2015,2015,Developing,58.3,365,362.6575444,10.8
+99,Malaysia,6.084000111,Asia,2015,2015,Developing,75,123,9643.644683,13.1
+100,Maldives,,,,2015,Developing,78.5,61,8395.785198,12.7
+101,Mali,4.190000057,Africa,2015,2015,Developing,58.2,266,729.725338,8.4
+103,Mauritania,4.291999817,Africa,2015,2015,Developing,63.1,25,1158.256469,8.5
+104,Mauritius,5.629000187,Africa,2015,2015,Developing,74.6,146,9252.11724,15.2
+105,Mexico,6.578000069,North America,2015,2015,Developing,76.7,122,9143.128494,13.3
+106,Micronesia (Federated States of),,,,2015,Developing,69.4,166,,11.7
+107,Mongolia,4.954999924,Asia,2015,2015,Developing,68.8,222,3944.1839,14.8
+108,Montenegro,5.236999989,Europe,2015,2015,Developing,76.1,16,6461.192554,15.1
+109,Morocco,5.235000134,Africa,2015,2015,Developing,74.3,95,2847.285569,12.1
+110,Mozambique,,,,2015,Developing,57.6,355,528.3125597,9.1
+111,Myanmar,4.545000076,Asia,2015,2015,Developing,66.6,199,1194.59137,9.1
+112,Namibia,,,,2015,Developing,65.8,248,4737.66996,11.7
+113,Nepal,4.961999893,Asia,2015,2015,Developing,69.2,165,743.7653489,12.2
+116,Nicaragua,6.071000099,South America,2015,2015,Developing,74.8,145,295.966488,11.7
+117,Niger,4.027999878,Africa,2015,2015,Developing,61.8,22,358.99731,5.4
+118,Nigeria,5.073999882,Africa,2015,2015,Developing,54.5,344,2655.157977,10
+120,Oman,,,,2015,Developing,76.6,99,16627.36433,13.7
+121,Pakistan,5.269000053,Asia,2015,2015,Developing,66.4,161,1431.244865,8.1
+122,Panama,6.452000141,South America,2015,2015,Developing,77.8,118,13134.4367,13
+123,Papua New Guinea,,,,2015,Developing,62.9,275,,10
+124,Paraguay,5.493000031,South America,2015,2015,Developing,74,146,419.367724,12.3
+125,Peru,5.715000153,South America,2015,2015,Developing,75.5,123,63.343259,13.4
+126,Philippines,5.429999828,Asia,2015,2015,Developing,68.5,211,2878.33837,11.7
+129,Qatar,,,,2015,Developing,78.2,68,66346.52267,13.4
+130,Republic of Korea,,,,2015,Developing,82.3,64,,
+131,Republic of Moldova,,,,2015,Developing,72.1,157,,
+133,Russian Federation,,,,2015,Developing,75,222,9329.298351,15
+134,Rwanda,3.470999956,Africa,2015,2015,Developing,66.1,227,71.348397,10.8
+135,Saint Lucia,,,,2015,Developing,75.2,138,,13.1
+136,Saint Vincent and the Grenadines,,,,2015,Developing,73.2,156,,13.3
+137,Samoa,,,,2015,Developing,74,125,4149.363444,12.9
+138,Sao Tome and Principe,,,,2015,Developing,67.5,19,1624.63963,11.2
+139,Saudi Arabia,6.343999863,Asia,2015,2015,Developing,74.5,88,2732.86172,16.1
+140,Senegal,4.534999847,Africa,2015,2015,Developing,66.7,188,98.7256145,9.5
+141,Serbia,5.394999981,Europe,2015,2015,Developing,75.6,121,5237.255334,14.4
+142,Seychelles,,,,2015,Developing,73.2,168,1539.464,14.1
+143,Sierra Leone,4.709000111,Africa,2015,2015,Developing,51,413,587.538233,9.5
+147,Solomon Islands,,,,2015,Developing,69.2,177,1922.41388,9.6
+148,Somalia,,,,2015,Developing,55,312,426.98537,
+149,South Africa,4.828999996,Africa,2015,2015,Developing,62.9,328,5769.77258,13
+150,South Sudan,,,,2015,Developing,57.3,332,758.725782,4.9
+152,Sri Lanka,4.440000057,Asia,2015,2015,Developing,74.9,138,3844.89123,14
+153,Sudan,,,,2015,Developing,64.1,225,2513.884661,7.2
+154,Suriname,,,,2015,Developing,71.6,176,8818.982566,12.7
+155,Swaziland,,,,2015,Developing,58.9,373,3136.92511,11.4
+158,Syrian Arab Republic,,,,2015,Developing,64.5,293,,9
+159,Tajikistan,5.040999889,Asia,2015,2015,Developing,69.7,161,918.6771543,11.3
+160,Thailand,6.423999786,Asia,2015,2015,Developing,74.9,148,5814.863134,13.6
+161,The former Yugoslav republic of Macedonia,,,,2015,Developing,75.7,12,,12.9
+162,Timor-Leste,,,,2015,Developing,68.3,152,1161.76935,12.5
+163,Togo,3.494999886,Africa,2015,2015,Developing,59.9,287,551.138346,12
+164,Tonga,,,,2015,Developing,73.5,133,493.775387,14.3
+165,Trinidad and Tobago,,,,2015,Developing,71.2,17,17321.83373,12.7
+166,Tunisia,4.804999828,Africa,2015,2015,Developing,75.3,1,3828.91589,14.6
+167,Turkey,5.5,Asia,2015,2015,Developing,75.8,16,1979.52569,14.5
+168,Turkmenistan,5.822000027,Asia,2015,2015,Developing,66.3,215,6432.668768,10.8
+169,Uganda,4.080999851,Africa,2015,2015,Developing,62.3,291,693.8963829,10
+170,Ukraine,4.096000195,Europe,2015,2015,Developing,71.3,195,2124.662666,15.3
+171,United Arab Emirates,6.647999763,Asia,2015,2015,Developing,77.1,75,3911.74689,13.3
+173,United Republic of Tanzania,,,,2015,Developing,61.8,279,,
+175,Uruguay,6.453999996,South America,2015,2015,Developing,77,116,15524.84247,15.5
+176,Uzbekistan,5.971000195,Asia,2015,2015,Developing,69.4,184,2137.576852,12.1
+177,Vanuatu,,,,2015,Developing,72,13,285.83414,10.8
+178,Venezuela (Bolivarian Republic of),,,,2015,Developing,74.1,157,,14.3
+179,Viet Nam,,,,2015,Developing,76,127,,12.6
+180,Yemen,3.592999935,Asia,2015,2015,Developing,65.7,224,,9
+181,Zambia,4.513999939,Africa,2015,2015,Developing,61.8,33,1313.889646,12.5
+182,Zimbabwe,3.875,Africa,2015,2015,Developing,67,336,118.69383,10.3
